@@ -194,6 +194,7 @@
   color: orange;
   position: absolute;
   padding-top: 35%;
+  width:100%;
   text-align: center;
   z-index:1
 
@@ -202,4 +203,13 @@
 .projects_header{
   color: white;
   padding-bottom:5px
+}
+
+button {
+  background-color: transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
 }
