@@ -64,20 +64,18 @@
 .education-level{
     font-family:Andale Mono, monospace;
     font-size:40px;
-    padding-top: 20px
 }
 
 .tech_used{
   font-family:Andale Mono, monospace;
   color:orange;
   font-size:30px;
-  padding-top: 30px;
+  padding-top: 120px;
 }
 .tech {
   color: white;
   font-family:Andale Mono, monospace;
-  font-size:20px;
-  padding-top: 20px
+  font-size:15px;
 }
 
 .split {
