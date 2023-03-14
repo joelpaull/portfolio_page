@@ -62,8 +62,10 @@
     padding-top: 7px
 }
 .education-level{
+    padding-top: 5px;
     font-family:Andale Mono, monospace;
     font-size:40px;
+    padding-top: 20px
 }
 
 .tech_used{
