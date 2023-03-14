@@ -59,12 +59,25 @@
     color: white;
     font-family:Andale Mono, monospace;
     font-size:25px;
-    padding-top: 10px
+    padding-top: 7px
 }
 .education-level{
     font-family:Andale Mono, monospace;
-    font-size:50px;
-    padding-top: 40px
+    font-size:40px;
+    padding-top: 20px
+}
+
+.tech_used{
+  font-family:Andale Mono, monospace;
+  color:orange;
+  font-size:30px;
+  padding-top: 30px;
+}
+.tech {
+  color: white;
+  font-family:Andale Mono, monospace;
+  font-size:20px;
+  padding-top: 20px
 }
 
 .split {
@@ -85,6 +98,16 @@
     padding-top: 40px;
     padding-left: 130px;
   }
+  .demo_left {
+    left: 0;
+    padding-top: 0px;
+    padding-left: 250px
+  }
+
+  .demo_right {
+    right:0;
+    padding-top: 40px;
+  }
   .right_contact_me {
     right:0;
     padding-top: 170px;
@@ -99,15 +122,15 @@
   }
 
   .logo{
-    padding-top: 30px;
+    padding-top: 20px;
     padding-left:15px
   }
   .logo_css{
-    padding-top: 30px;
+    padding-top: 20px;
     padding-left:22px
   }
   .logo_js{
-    padding-top: 30px;
+    padding-top: 20px;
   }
 
   .column {
@@ -121,7 +144,7 @@
   }
 
   .row_after {
-    padding-top:50px;
+    padding-top:40px;
     content: "";
     clear: both;
     display: table;
@@ -151,4 +174,31 @@
 .center {
   margin-left: auto;
   margin-right: auto;
+}
+
+.portfolio_list {
+  color: white;
+  font-family:Andale Mono, monospace;
+  font-size:15px;
+  padding-top: 10px
+}
+
+.portfolio-title {
+  color: orange;
+  font-family:Andale Mono, monospace;
+  font-size:30px;
+}
+
+.other_projects{
+  color: orange;
+  position: absolute;
+  padding-top: 35%;
+  padding-left: 10%;
+  text-align: center
+
+}
+
+.projects_header{
+  color: white;
+  padding-bottom:5px
 }
